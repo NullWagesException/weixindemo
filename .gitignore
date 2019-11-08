@@ -1,0 +1,10 @@
+.idea
+*.iml
+target/
+/.idea/
+api/src/main/resources/
+api/src/test/
+common/src/main/resources/
+common/src/test/
+rpc/src/test/
+web/src/test/
